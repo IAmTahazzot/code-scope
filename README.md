@@ -2,9 +2,12 @@
 
 # Code Scope
 
-![Repo name](https://img.shields.io/badge/leetcode-black?style=flat&logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fu%2Ftahazzot)
-![Codepen](https://img.shields.io/badge/codepen-black?style=flat&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Ftahazzot)
-![Stackoverflow](https://img.shields.io/badge/stackoverflow-%20?style=flat&logo=stackoverflow&color=%23000&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F12661546%2Ftahazzot)
+[![Repo name](https://img.shields.io/badge/leetcode-black?style=flat&logo=leetcode)](https://leetcode.com/u/tahazzot)
+[![Codepen](https://img.shields.io/badge/codepen-black?style=flat&logo=codepen)](https://codepen.io/tahazzot)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%20?style=flat&logo=stackoverflow&color=%23000)](https://stackoverflow.com/users/12661546/tahazzot)
+[![Dev.to](https://img.shields.io/badge/dev.to-%20?style=flat&logo=devdotto&color=000)](https://dev.to/tahazzot)
+
+
 </div>
 
 ## Intro
