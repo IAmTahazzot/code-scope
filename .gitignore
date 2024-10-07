@@ -1,7 +1,32 @@
 # Dependency directories
 node_modules/
 
+# IDE directories
+.vscode/
+.idea/
+
 # Build directories and files
 *.log
 *.log.*
 *.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.swp
+*.swo
+*.bak
+*.orig
