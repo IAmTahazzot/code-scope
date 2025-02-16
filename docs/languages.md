@@ -4,10 +4,18 @@ This document outlines the programming languages I will use for various purposes
 
 ## Languages and Their Purposes
 
-- **C**: To understand the fundamentals of computer science and low-level programming.
-- **C++**: For competitive programming and future game development using Unreal Engine.
-- **Python**: For artificial intelligence and machine learning projects.
-- **TypeScript**: For modern web development.
-- **PHP**: To maintain and work with legacy backend codebases.
-- **SQL**: To manipulate and manage data in databases.
-- **Swift**: To develop native iOS applications.
+| Language   | Domain       | Description                                                                   | Proficiency  |
+| ---------- | ------------ | ----------------------------------------------------------------------------- | ------------ |
+| C          | CS           | To understand the fundamentals of computer science and low-level programming. | Intermediate |
+| C++        | System-level | For system-level programming and performance-critical applications.           | Expert       |
+| Python     | AI & ML      | Applied in artificial intelligence and machine learning projects.             | Expert       |
+| PHP        | Web          | For maintaining and working with legacy backend codebases.                    | Expert       |
+| TypeScript | Web          | Employed for modern web development.                                          | Expert       |
+| Swift      | Mobile       | For developing native iOS applications.                                       | Beginner     |
+| SQL        | Database     | Essential for data manipulation and database management.                      | Advanced     |
+| Go         | Cloud inf.   | Used in cloud infrastructure and CLI tools.                                   | Intermediate |
+| C#         | Game         | Utilized in .NET and Unity engine development.                                | Beginner     |
+
+## The Value of Learning Multiple Languages
+
+Learning multiple programming languages is not about lacking depth in any one area. Instead, it is about being versatile and adaptable across different domains. Each language offers unique strengths and capabilities, allowing us to select the most appropriate tool for each project. By understanding various languages, we can approach problems with a broader perspective and develop more robust and efficient solutions. The process of learning new languages also enhances our overall programming skills, making us more proficient and confident developers.
